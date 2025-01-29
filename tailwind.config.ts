@@ -9,6 +9,12 @@ export default {
   theme: {
     extend: {
       colors: {
+        lavender : "#F3E4FF",
+        darkLavender : "#47037E",
+        purple : "#7028AB",
+        offWhite : "#7028AB",
+        darkGrey : "#2F2835",
+        lightGrey : "#4A3F53",
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
