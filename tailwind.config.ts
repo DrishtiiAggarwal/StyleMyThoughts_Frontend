@@ -12,12 +12,15 @@ export default {
         lavender : "#F3E4FF",
         darkLavender : "#47037E",
         purple : "#7028AB",
-        offWhite : "#7028AB",
+        offWhite : "#FBF6FF",
         darkGrey : "#2F2835",
         lightGrey : "#4A3F53",
-        background: "var(--background)",
+        background: "#FBF6FF",
         foreground: "var(--foreground)",
       },
+      fontFamily :{
+        Montserrat : 'Montserrat',
+      }
     },
   },
   plugins: [],
